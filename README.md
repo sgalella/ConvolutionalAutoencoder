@@ -32,5 +32,5 @@ conda activate convolutional-autoencoder
 
 ## Usage
 
-Open and execute the cells in `ConvolutionalAutoencoder.ipynb` from `notebooks/`. 
+Open and execute the cells in `convolutional_autoencoder.ipynb` from `notebooks/`. 
 
