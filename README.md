@@ -1,5 +1,5 @@
 # Convolutional Autoencoder
-Convolutional autoencoder implementation in TensorFlow for image denoising. Figure displays original, original + gaussian noise and reconstructed, for random images in the test set.
+[Convolutional autoencoder](https://en.wikipedia.org/wiki/Autoencoder) implementation in TensorFlow for image denoising. Figure displays original, original + gaussian noise and reconstructed, for random images in the test set.
 
 <p align="center">
   <img width="680" height="510" src="images/convolutional_autoencoder.png">
